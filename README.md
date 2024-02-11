@@ -112,10 +112,6 @@
   - [Self Inquiry](#self-inquiry)
   - [Self Realization](#self-realization)
 
-
-** Process exited - Return Code: 0 **
-
-** Process exited - Return Code: 0 **
 # Capybara
 
 ## How does self-inquiry work? How do I self-inquire?
